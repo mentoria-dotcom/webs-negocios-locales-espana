@@ -77,9 +77,12 @@ Cómo conseguir clientes online para tu tipo de negocio:
 
 ¿Quieres una web para tu negocio? Gallardo Studio entrega webs para negocios locales desde €490, listas en 48-72h.
 
+**[→ Cómo funciona y qué incluye por 490€](https://landing-five-dusky-44.vercel.app/web-para-negocio-local)**
+
 - **Ver ejemplos:** [gallardo-henna.vercel.app](https://gallardo-henna.vercel.app)
 - **WhatsApp:** [Pedir presupuesto →](https://wa.me/34601702662?text=Hola%2C%20vi%20el%20repositorio%20en%20GitHub%20y%20me%20interesa%20una%20web%20para%20mi%20negocio)
 - **Diagnóstico gratuito:** [landing-five-dusky-44.vercel.app](https://landing-five-dusky-44.vercel.app)
+- **Mi negocio no aparece en Google:** [Guía de solución →](https://landing-five-dusky-44.vercel.app/mi-negocio-no-aparece-en-google)
 
 ---
 
