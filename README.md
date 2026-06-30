@@ -70,6 +70,26 @@ Cómo conseguir clientes online para tu tipo de negocio:
 | [Cómo optimizar Google Business Profile](https://landing-five-dusky-44.vercel.app/google-business-profile-optimizar) | 6 pasos para aparecer en Google Maps |
 | [Schema markup para negocios locales](https://landing-five-dusky-44.vercel.app/schema-markup-negocio-local) | Guía práctica con código de ejemplo |
 | [Mejor hosting en España 2026](https://landing-five-dusky-44.vercel.app/hosting-web-espana) | Comparativa: Hostinger, SiteGround, Raiola, OVHcloud |
+| [Por qué mi negocio no aparece en Google](https://landing-five-dusky-44.vercel.app/mi-negocio-no-aparece-en-google) | 7 causas y soluciones paso a paso |
+| [Comparar velocidad de webs (gratis)](https://landing-five-dusky-44.vercel.app/comparar-velocidad) | Tu web vs. competencia con datos reales de PageSpeed |
+| [Generador de Schema para negocios locales](https://landing-five-dusky-44.vercel.app/schema-generator) | JSON-LD en un clic, sin tocar código |
+
+---
+
+## 🌐 Webs por sector
+
+| Sector | Landing específica |
+|--------|-------------------|
+| Fontaneros | [web-para-fontanero](https://landing-five-dusky-44.vercel.app/web-para-fontanero) |
+| Electricistas | [web-para-electricista](https://landing-five-dusky-44.vercel.app/web-para-electricista) |
+| Cerrajeros | [web-para-cerrajero](https://landing-five-dusky-44.vercel.app/web-para-cerrajero) |
+| Talleres mecánicos | [web-para-taller-mecanico](https://landing-five-dusky-44.vercel.app/web-para-taller-mecanico) |
+| Abogados | [web-para-abogado](https://landing-five-dusky-44.vercel.app/web-para-abogado) |
+| Clínicas dentales | [web-para-clinica-dental](https://landing-five-dusky-44.vercel.app/web-para-clinica-dental) |
+| Fisioterapeutas | [web-para-fisioterapeuta](https://landing-five-dusky-44.vercel.app/web-para-fisioterapeuta) |
+| Restaurantes | [web-para-restaurante](https://landing-five-dusky-44.vercel.app/web-para-restaurante) |
+| Peluquerías | [web-para-peluqueria](https://landing-five-dusky-44.vercel.app/web-para-peluqueria) |
+| Autónomos | [web-para-autonomo](https://landing-five-dusky-44.vercel.app/web-para-autonomo) |
 
 ---
 
