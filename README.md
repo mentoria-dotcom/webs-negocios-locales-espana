@@ -93,6 +93,25 @@ Cómo conseguir clientes online para tu tipo de negocio:
 
 ---
 
+## 📍 Webs por ciudad y sector
+
+Páginas específicas por ciudad — optimizadas para búsquedas locales de alta intención:
+
+| Sector | Madrid | Barcelona | Valencia | Zaragoza |
+|--------|--------|-----------|----------|----------|
+| Fontanero | [web-fontanero-madrid](https://landing-five-dusky-44.vercel.app/web-fontanero-madrid) | [web-fontanero-barcelona](https://landing-five-dusky-44.vercel.app/web-fontanero-barcelona) | [web-fontanero-valencia](https://landing-five-dusky-44.vercel.app/web-fontanero-valencia) | [web-fontanero-zaragoza](https://landing-five-dusky-44.vercel.app/web-fontanero-zaragoza) |
+| Cerrajero | [web-cerrajero-madrid](https://landing-five-dusky-44.vercel.app/web-cerrajero-madrid) | [web-cerrajero-barcelona](https://landing-five-dusky-44.vercel.app/web-cerrajero-barcelona) | — | [web-cerrajero-zaragoza](https://landing-five-dusky-44.vercel.app/web-cerrajero-zaragoza) |
+| Electricista | [web-electricista-madrid](https://landing-five-dusky-44.vercel.app/web-electricista-madrid) | [web-electricista-barcelona](https://landing-five-dusky-44.vercel.app/web-electricista-barcelona) | — | — |
+| Dentista | [web-dentista-madrid](https://landing-five-dusky-44.vercel.app/web-dentista-madrid) | — | — | — |
+
+**Guías de precios por sector:**
+- [¿Cuánto cuesta una web para fontanero?](https://landing-five-dusky-44.vercel.app/precio-web-fontanero)
+- [¿Cuánto cuesta una web para cerrajero?](https://landing-five-dusky-44.vercel.app/precio-web-cerrajero)
+- [¿Cuánto cuesta una web para electricista?](https://landing-five-dusky-44.vercel.app/precio-web-electricista)
+- [¿Cuánto cuesta una web? (guía general)](https://landing-five-dusky-44.vercel.app/cuanto-cuesta-una-web)
+
+---
+
 ## 🤝 Solicitar una web
 
 ¿Quieres una web para tu negocio? Gallardo Studio entrega webs para negocios locales desde €490, listas en 48-72h.
