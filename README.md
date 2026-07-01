@@ -97,18 +97,19 @@ Cómo conseguir clientes online para tu tipo de negocio:
 
 Páginas específicas por ciudad — optimizadas para búsquedas locales de alta intención:
 
-| Sector | Madrid | Barcelona | Valencia | Sevilla | Zaragoza |
-|--------|--------|-----------|----------|---------|----------|
-| Fontanero | [Madrid](https://landing-five-dusky-44.vercel.app/web-fontanero-madrid) | [Barcelona](https://landing-five-dusky-44.vercel.app/web-fontanero-barcelona) | [Valencia](https://landing-five-dusky-44.vercel.app/web-fontanero-valencia) | [Sevilla](https://landing-five-dusky-44.vercel.app/web-fontanero-sevilla) | [Zaragoza](https://landing-five-dusky-44.vercel.app/web-fontanero-zaragoza) |
-| Cerrajero | [Madrid](https://landing-five-dusky-44.vercel.app/web-cerrajero-madrid) | [Barcelona](https://landing-five-dusky-44.vercel.app/web-cerrajero-barcelona) | [Valencia](https://landing-five-dusky-44.vercel.app/web-cerrajero-valencia) | [Sevilla](https://landing-five-dusky-44.vercel.app/web-cerrajero-sevilla) | [Zaragoza](https://landing-five-dusky-44.vercel.app/web-cerrajero-zaragoza) |
-| Electricista | [Madrid](https://landing-five-dusky-44.vercel.app/web-electricista-madrid) | [Barcelona](https://landing-five-dusky-44.vercel.app/web-electricista-barcelona) | [Valencia](https://landing-five-dusky-44.vercel.app/web-electricista-valencia) | [Sevilla](https://landing-five-dusky-44.vercel.app/web-electricista-sevilla) | — |
-| Dentista | [Madrid](https://landing-five-dusky-44.vercel.app/web-dentista-madrid) | — | — | — | — |
-| Peluquería | [Madrid](https://landing-five-dusky-44.vercel.app/web-peluqueria-madrid) | — | — | — | — |
+| Sector | Madrid | Barcelona | Valencia | Sevilla | Zaragoza | Bilbao | Málaga |
+|--------|--------|-----------|----------|---------|----------|--------|--------|
+| Fontanero | [Madrid](https://landing-five-dusky-44.vercel.app/web-fontanero-madrid) | [Barcelona](https://landing-five-dusky-44.vercel.app/web-fontanero-barcelona) | [Valencia](https://landing-five-dusky-44.vercel.app/web-fontanero-valencia) | [Sevilla](https://landing-five-dusky-44.vercel.app/web-fontanero-sevilla) | [Zaragoza](https://landing-five-dusky-44.vercel.app/web-fontanero-zaragoza) | [Bilbao](https://landing-five-dusky-44.vercel.app/web-fontanero-bilbao) | [Málaga](https://landing-five-dusky-44.vercel.app/web-fontanero-malaga) |
+| Cerrajero | [Madrid](https://landing-five-dusky-44.vercel.app/web-cerrajero-madrid) | [Barcelona](https://landing-five-dusky-44.vercel.app/web-cerrajero-barcelona) | [Valencia](https://landing-five-dusky-44.vercel.app/web-cerrajero-valencia) | [Sevilla](https://landing-five-dusky-44.vercel.app/web-cerrajero-sevilla) | [Zaragoza](https://landing-five-dusky-44.vercel.app/web-cerrajero-zaragoza) | [Bilbao](https://landing-five-dusky-44.vercel.app/web-cerrajero-bilbao) | [Málaga](https://landing-five-dusky-44.vercel.app/web-cerrajero-malaga) |
+| Electricista | [Madrid](https://landing-five-dusky-44.vercel.app/web-electricista-madrid) | [Barcelona](https://landing-five-dusky-44.vercel.app/web-electricista-barcelona) | [Valencia](https://landing-five-dusky-44.vercel.app/web-electricista-valencia) | [Sevilla](https://landing-five-dusky-44.vercel.app/web-electricista-sevilla) | — | — | — |
+| Dentista | [Madrid](https://landing-five-dusky-44.vercel.app/web-dentista-madrid) | [Barcelona](https://landing-five-dusky-44.vercel.app/web-dentista-barcelona) | — | — | — | — | — |
+| Peluquería | [Madrid](https://landing-five-dusky-44.vercel.app/web-peluqueria-madrid) | [Barcelona](https://landing-five-dusky-44.vercel.app/web-peluqueria-barcelona) | — | [Sevilla](https://landing-five-dusky-44.vercel.app/web-peluqueria-sevilla) | — | — | — |
 
 **Guías de precios por sector:**
 - [¿Cuánto cuesta una web para fontanero?](https://landing-five-dusky-44.vercel.app/precio-web-fontanero)
 - [¿Cuánto cuesta una web para cerrajero?](https://landing-five-dusky-44.vercel.app/precio-web-cerrajero)
 - [¿Cuánto cuesta una web para electricista?](https://landing-five-dusky-44.vercel.app/precio-web-electricista)
+- [¿Cuánto cuesta una web para peluquería?](https://landing-five-dusky-44.vercel.app/precio-web-peluquero)
 - [¿Cuánto cuesta una web? (guía general)](https://landing-five-dusky-44.vercel.app/cuanto-cuesta-una-web)
 
 ---
